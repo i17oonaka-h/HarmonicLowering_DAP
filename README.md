@@ -5,6 +5,12 @@ The official implementation of harmonic convolution by Harmonic Lowering propose
 <img src="https://github.com/taketakeseijin/HarmonicLowering/blob/master/figs/HarmonicLowering.png" width="480">
 
 Note that this implementation is not the official one of the [original paper](http://dap.csail.mit.edu/).
+
+## Denoising for deep audio prior
+after running the build below
+
+run deep_audio_prior.ipynb
+
 ## Build
 ### Requirements
 Python 3.*  
