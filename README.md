@@ -6,10 +6,17 @@ The official implementation of harmonic convolution by Harmonic Lowering propose
 
 Note that this implementation is not the official one of the [original paper](http://dap.csail.mit.edu/).
 
-## Denoising for deep audio prior
+## Noise removal using deep audio prior
 after running the build below
 
 run deep_audio_prior.ipynb
+
+### result
+- Noisy Spectrogram
+  <img src = "https://github.com/i17oonaka-h/HarmonicLowering_DAP/blob/master/wav/noisy.png">
+- Processed Spectrogram (iter: 10000)
+  <img src = "https://github.com/i17oonaka-h/HarmonicLowering_DAP/blob/master/wav/10000.png">
+
 
 ## Build
 ### Requirements
